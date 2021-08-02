@@ -6,7 +6,7 @@
 *
 *@package WordPress
 *@subpackage digititral
-*@since digititral 1.0
+*@since digititral 1.0 
 */
 get_header(); ?>
 

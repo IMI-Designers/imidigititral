@@ -4,7 +4,7 @@
 *
 *Displays Only Home template
 *
-*@package WordPress
+*@package WordPress 
 *@subpackage digititral
 *@since digititral 1.0
 */
